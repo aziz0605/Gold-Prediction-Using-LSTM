@@ -103,6 +103,9 @@ The project includes four visualizations:
 3. Actual vs Predicted Price Comparison.
 4. Prediction Error Analysis.
 
+<img width="936" height="762" alt="image" src="https://github.com/user-attachments/assets/bf4215cd-b87f-4ff6-9643-08c24006755d" />
+
+
 ## 🔮 Next-Day Gold Price Prediction
 
 The trained model uses the latest 15 days of available data to predict the next day's gold price.
